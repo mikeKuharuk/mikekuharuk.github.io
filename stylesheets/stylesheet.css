@@ -25,7 +25,6 @@ time, mark, audio, video {
   margin: 0;
   padding: 0;
   border: 0;
-  font: inherit;
   vertical-align: baseline;
 }
 
@@ -83,6 +82,7 @@ h3 {
 
 h4 {
   font-size: 21px;
+  font-weight: normal;
 }
 
 h5 {
